@@ -30,7 +30,11 @@ The Enterprise IT Onboarding Automation Suite is a sophisticated, production-rea
 
 Watch our comprehensive demo video showcasing the Enterprise IT Onboarding Automation Suite:
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+https://github.com/user-attachments/assets/c7ef8b9d-7c60-4330-b658-49e20b32ca48
+
+
+
 
 **Video Highlights:**
 - Complete onboarding workflow demonstration
@@ -39,35 +43,6 @@ Watch our comprehensive demo video showcasing the Enterprise IT Onboarding Autom
 - Analytics and reporting features
 - Security and compliance features
 
-### Video Sections:
-1. **Introduction** (0:00 - 0:30)
-   - Overview of the application
-   - Key features and benefits
-
-2. **Dashboard Tour** (0:30 - 1:30)
-   - Executive dashboard overview
-   - KPI monitoring and metrics
-
-3. **Employee Onboarding** (1:30 - 2:30)
-   - Adding new employees
-   - Automated workflow execution
-
-4. **Equipment Management** (2:30 - 3:30)
-   - Asset tracking and assignment
-   - QR code generation
-
-5. **Analytics & Reporting** (3:30 - 4:30)
-   - Performance metrics
-   - Department analytics
-
-6. **Security Features** (4:30 - 5:00)
-   - Access controls
-   - Audit logging
-
-### Upload Your Video:
-1. Upload your demo video to YouTube
-2. Replace `VIDEO_ID` in the README with your actual YouTube video ID
-3. Update the video description and timestamps as needed
 
 ## 🏗️ Architecture
 
